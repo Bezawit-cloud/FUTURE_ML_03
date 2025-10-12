@@ -1,0 +1,293 @@
+[
+  {
+    "id": "96b09e02-27a3-4039-87cb-cdce434178b8",
+    "data": [
+      {
+        "text": "Table booking please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13486bb2-20a2-4dd0-9a1b-760d38fdddf2",
+    "data": [
+      {
+        "text": "I\u0027d like to book a table by the window  Can you set up a birthday dinner for 3 people?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c43397a-abe9-4703-a8e1-3b9602eec6c5",
+    "data": [
+      {
+        "text": "Reserve a table for 2 people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d40ff861-1452-49b6-be87-bd2f8e19f3c4",
+    "data": [
+      {
+        "text": "Book for tomorrow noon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "211896a1-5917-47c7-a49f-819093117dd9",
+    "data": [
+      {
+        "text": "Can I get a table tonight for 4?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3852e737-1b69-4c05-9ec3-4ff75b7762cf",
+    "data": [
+      {
+        "text": "Need a table for 5 people around 7 o\u0027clock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d3a8c66-261b-40d6-9722-6940bfa905ec",
+    "data": [
+      {
+        "text": "I want to dine in tomorrow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f9f46a7-7454-4373-b498-d7bd1dff9c7c",
+    "data": [
+      {
+        "text": "Can you book a table for Friday night?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45d7935e-39ef-4b93-b4de-be9051a917b9",
+    "data": [
+      {
+        "text": "Dinner booking for two at 6",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4cc3e66-74f1-48d0-ba92-5b9943860d66",
+    "data": [
+      {
+        "text": "Want to reserve for a couple this evening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e19ef38a-e531-4c9d-9ab4-465d7e4936ef",
+    "data": [
+      {
+        "text": "Please book a table for me at Bella Bistro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b24bf6ef-3053-47f8-899d-12d70671f2d8",
+    "data": [
+      {
+        "text": "I\u0027d like to make a reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74504729-6fca-4fd4-9981-245601d40d51",
+    "data": [
+      {
+        "text": "Can I get a spot for lunch ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3eea61d9-f755-4306-b037-faf52d5763f8",
+    "data": [
+      {
+        "text": "Need a table ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow at 8",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4c82ad8-b0d3-4f3d-919d-832a9d268e98",
+    "data": [
+      {
+        "text": "Reserve for ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "userDefined": false
+      },
+      {
+        "text": " people ",
+        "userDefined": false
+      },
+      {
+        "text": "at 7 PM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a53e8a6-ee1f-4d22-bdda-d1e7945c159c",
+    "data": [
+      {
+        "text": "Book a dinner table for ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61bada34-6e68-4b07-968b-5c24942661f3",
+    "data": [
+      {
+        "text": "Table for ",
+        "userDefined": false
+      },
+      {
+        "text": "four",
+        "userDefined": false
+      },
+      {
+        "text": ", please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "035d6b89-f8cc-4bf3-8faa-f9fc9a04922c",
+    "data": [
+      {
+        "text": "Can I reserve a seat for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09997844-bf79-4408-bf49-483124580ad4",
+    "data": [
+      {
+        "text": "I want to book a table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

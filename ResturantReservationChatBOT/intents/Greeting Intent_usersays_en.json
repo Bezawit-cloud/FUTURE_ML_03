@@ -1,0 +1,392 @@
+[
+  {
+    "id": "9a635a9c-57cd-40bb-bd71-266dee9e9e36",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f734d6c0-16aa-4d0d-bb99-0f65f67cdb65",
+    "data": [
+      {
+        "text": "hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "827c21b7-5c39-4376-beec-b4f7f162e9fc",
+    "data": [
+      {
+        "text": "Hey, I need some information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93a2f28c-0237-437f-b0ad-791eb7275273",
+    "data": [
+      {
+        "text": "Hello there!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c053557-f1a2-476f-ba9f-1f4379bcc863",
+    "data": [
+      {
+        "text": "Hi, I have a question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e18af88d-9db6-4a73-b9be-695e2f6dfc91",
+    "data": [
+      {
+        "text": "Hey! I want to book a table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f097641-60b2-4194-92a9-1f6ee36a640f",
+    "data": [
+      {
+        "text": "Hello, can you assist me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ccdfed4-f28c-4427-bd3a-0afe770d3b99",
+    "data": [
+      {
+        "text": "Hi, I\u0027d like some help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5a83e4f-061f-4e46-8552-4db12d4433b4",
+    "data": [
+      {
+        "text": "good evening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71ee458f-569c-489e-8a1c-c4fc14953594",
+    "data": [
+      {
+        "text": "Good afternoon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1452cb65-8160-4f32-8ecc-f286b307f8aa",
+    "data": [
+      {
+        "text": "Good morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecebf55f-55f3-4259-a858-9fc2be5a2f42",
+    "data": [
+      {
+        "text": "Hey there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "602170c4-5f9c-4ed1-8de4-23a20be763c5",
+    "data": [
+      {
+        "text": "Hey, I need assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "318e6ee6-915e-4daa-9a67-d29cd2c3f25a",
+    "data": [
+      {
+        "text": "Hi, can you guide me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63bb3cd7-68df-4bc9-be59-23b814ff4e9a",
+    "data": [
+      {
+        "text": "Hello, I\u0027m planning to dine out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "394b90c5-77b5-49db-8ea1-6aed823a584a",
+    "data": [
+      {
+        "text": "Hey there, need some help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8b2795f-ad46-461b-bf1e-bd70d8226089",
+    "data": [
+      {
+        "text": "Good evening, I\u0027d like to book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4661785-d6ee-4066-a78d-5bc57907b323",
+    "data": [
+      {
+        "text": "Hi, can I ask something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04456bec-4af2-48b6-a488-adcbea56ab24",
+    "data": [
+      {
+        "text": "Hey, are you there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68ed629c-e28f-48ea-9c07-ee708fe58f76",
+    "data": [
+      {
+        "text": "Hello, I\u0027m looking to reserve a table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4aae2b9-795b-47c6-b72e-5d38edc6a315",
+    "data": [
+      {
+        "text": "Hi, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58ba4883-9181-49eb-99b1-7e2debaaf420",
+    "data": [
+      {
+        "text": "Good morning, I want to make a reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0296f336-17bd-4de8-976e-552f7a248f76",
+    "data": [
+      {
+        "text": "Hey, can you assist me with a table?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50f9fcf3-54fd-48b7-893e-c83bff581d88",
+    "data": [
+      {
+        "text": "Good afternoon, I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a21efb5f-a14f-4fdb-a9a3-c710092a6a39",
+    "data": [
+      {
+        "text": "Hi, is anyone there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ccb095b2-0554-46b9-8c5d-c6d451d97cb9",
+    "data": [
+      {
+        "text": "Hello, I want some info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0841e1d-abab-4692-9b6c-75d52136a90b",
+    "data": [
+      {
+        "text": "Hey, do you take bookings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcdbe484-09cd-4b6e-a90d-919d48625099",
+    "data": [
+      {
+        "text": "Good morning, can you help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5be03b6e-c48e-463f-834c-78601d67ba07",
+    "data": [
+      {
+        "text": "Hi, I want to make a reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3990a9ae-5e6b-4ad8-bdcb-c9a49d6a2bbe",
+    "data": [
+      {
+        "text": "Hello, can I check table availability?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

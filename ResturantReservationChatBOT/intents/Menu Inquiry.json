@@ -1,0 +1,50 @@
+{
+  "id": "91da8cc3-8c1f-4d14-bd69-2b32622d0e12",
+  "name": "Menu Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8266f6ef-0849-458c-ab8c-52c4af6fd95c",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here’s our menu for today:\n\n- Starters: Bruschetta, Garlic Bread\n- Main Courses: Spaghetti Bolognese, Grilled Chicken, Veggie Burger\n- Desserts: Chocolate Cake, Ice Cream\n- Drinks: Coffee, Tea, Fresh Juice"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,116 @@
+[
+  {
+    "id": "bb5ecbc2-0949-4bef-8c00-8a7b87c308a6",
+    "data": [
+      {
+        "text": "Do you have any starters?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b85c507-49c6-4c71-a4eb-3af0d4cd7539",
+    "data": [
+      {
+        "text": "Show me the main courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "465e335e-5bf8-445b-a1e8-966b9e4bb0a3",
+    "data": [
+      {
+        "text": "Tell me about your meals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db388498-d836-4495-b730-6e51a2f40e84",
+    "data": [
+      {
+        "text": "What drinks do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "167d182e-e209-4f8c-bec1-9e4339860e2f",
+    "data": [
+      {
+        "text": "I want to see the desserts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0e64afc-810d-4c99-b835-25ec94a6c0fe",
+    "data": [
+      {
+        "text": "Do you have vegetarian dishes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89de44b9-255b-465f-9416-cae50e0363f8",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s specials",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b98a2bbe-dc1a-4d7f-8dc3-aaa4e2dbeb7f",
+    "data": [
+      {
+        "text": "What\u0027s on the menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

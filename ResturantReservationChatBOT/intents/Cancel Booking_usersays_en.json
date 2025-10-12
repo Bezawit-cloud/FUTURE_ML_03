@@ -1,0 +1,145 @@
+[
+  {
+    "id": "961364fa-533a-47f6-a1bc-ace6529aceab",
+    "data": [
+      {
+        "text": "I want to cancel booking BK-004",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f2fbc5e-f14f-4f5b-8a0d-2f81a97ec2c0",
+    "data": [
+      {
+        "text": "Cancel BK-003",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63a91b29-8d90-424b-9ca5-67d2808282de",
+    "data": [
+      {
+        "text": "BK-002",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af9a6515-99be-4071-9a9a-54842aacfe2c",
+    "data": [
+      {
+        "text": "BK-001",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8c99a4f-5ef7-4c1e-bcef-51af0a86ba98",
+    "data": [
+      {
+        "text": "I wanted to cancel my booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d691d414-f60c-45e0-874d-deb148ac7581",
+    "data": [
+      {
+        "text": "Delete my reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b3cad05-818b-4940-8e47-ad0b16e8d819",
+    "data": [
+      {
+        "text": "I need to cancel my booking for tomorrow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68aeeedb-96b6-43a6-b957-49bf1dc42173",
+    "data": [
+      {
+        "text": "I can\u0027t come for my table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76ba3e3d-f310-4dcd-ae89-b5d1b81a6019",
+    "data": [
+      {
+        "text": "Change my reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e3637da-40bc-46df-8c76-624f1ebdeb7f",
+    "data": [
+      {
+        "text": "Cancel my reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5498edfe-db34-4fb2-8376-8d36073ea9ab",
+    "data": [
+      {
+        "text": "I want to cancel my booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

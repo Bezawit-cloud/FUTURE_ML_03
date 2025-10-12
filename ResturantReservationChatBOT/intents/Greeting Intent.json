@@ -1,0 +1,44 @@
+{
+  "id": "02a61685-a857-4c2a-93bb-b4be1f8bfdb9",
+  "name": "Greeting Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! I’m here to help with your restaurant bookings and inquiries.",
+            "Hello! Ready to reserve a table or learn about our menu?",
+            "Hi! How can I help you today?",
+            "Hello! Are you looking to book a table or check our menu?",
+            "Hey there! What can I do for you today?",
+            "Hey! How can I assist you today?",
+            "Hi! I’m here to make your restaurant experience easier.",
+            "Hello! Need help with a booking or something else?",
+            "Hey there! I can help you with reservations and other info",
+            "Hi! Do you want to book a table or check our restaurant details?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
