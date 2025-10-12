@@ -14,34 +14,40 @@ function doPost(e) {
       const rawDate = params.date || "";
       const rawTime = params.time || "";
 
+      // --- Check if date is provided ---
       if (!rawDate) {
         responseText = "❗ Please provide a valid booking date.";
       } else {
-        // Create date object from date
-        const dateObj = new Date(rawDate);
+        // --- Parse date safely ---
+        let dateObj = new Date(rawDate);
+        if (isNaN(dateObj.getTime())) {
+          responseText = "❗ Invalid date format. Please provide a proper date (YYYY-MM-DD).";
+        } else {
+          // --- Add time if provided ---
+          if (rawTime) {
+            const timeParts = rawTime.split("T")[1]; // e.g., "07:00:00-05:00"
+            if (timeParts) {
+              const hours = parseInt(timeParts.split(":")[0]);
+              const minutes = parseInt(timeParts.split(":")[1]);
+              dateObj.setHours(hours);
+              dateObj.setMinutes(minutes);
+            }
+          }
 
-        // If time exists, extract hours and minutes
-        if (rawTime) {
-          const timeOnly = rawTime.split("T")[1]; // "07:00:00-05:00"
-          const hours = parseInt(timeOnly.split(":")[0]);
-          const minutes = parseInt(timeOnly.split(":")[1]);
-          dateObj.setHours(hours);
-          dateObj.setMinutes(minutes);
+          // --- Format date/time for display ---
+          const formattedDate = Utilities.formatDate(dateObj, "Africa/Addis_Ababa", "dd MMM yyyy");
+          const formattedTime = Utilities.formatDate(dateObj, "Africa/Addis_Ababa", "hh:mm a");
+
+          // --- Generate booking ID ---
+          const lastRow = sheet.getLastRow();
+          const bookingId = "BK-" + Utilities.formatString("%03d", lastRow + 1);
+
+          // --- Save to sheet ---
+          sheet.appendRow([bookingId, formattedDate, formattedTime, partySize, "Active"]);
+
+          // --- Response to user ---
+          responseText = `✅ Your table for ${partySize} people on ${formattedDate} at ${formattedTime} has been booked! Your booking ID is ${bookingId}. 🍽️`;
         }
-
-        // Format date/time
-        const formattedDate = Utilities.formatDate(dateObj, "Africa/Addis_Ababa", "dd MMM yyyy");
-        const formattedTime = Utilities.formatDate(dateObj, "Africa/Addis_Ababa", "hh:mm a");
-
-        // Generate booking ID using last row + 1
-        const lastRow = sheet.getLastRow();
-        const bookingId = "BK-" + Utilities.formatString("%03d", lastRow + 1);
-
-        // Append to sheet
-        sheet.appendRow([bookingId, formattedDate, formattedTime, partySize, "Active"]);
-
-        // Respond with ID
-        responseText = `✅ Your table for ${partySize} people on ${formattedDate} at ${formattedTime} has been booked! Your booking ID is ${bookingId}. 🍽️`;
       }
     } else {
       responseText = "Sorry, I didn’t understand your request.";
@@ -60,3 +66,4 @@ function doPost(e) {
 function doGet() {
   return ContentService.createTextOutput("Web App is active ✅");
 }
+
