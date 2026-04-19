@@ -8,7 +8,7 @@ This chatbot allows customers to easily book, view, and cancel reservations — 
 ## 🎯 Live Demo
 
 👉 **Try it here:** [🔗 Live Chatbot Demo](https://futureml03-bxntyrhz7bimennhc2jcqj.streamlit.app/)  
-*(Replace this link with your actual deployed Dialogflow Messenger or Streamlit app URL)*  
+ 
 
 💬 Example interactions:
 - “I’d like to book a table for 3 tomorrow at 7 PM.”  
